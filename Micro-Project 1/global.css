@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    line-height: normal;
+}
+:root{
+    --font-inter:Inter;
+
+    --font-size-x1: 20px;
+
+    --font-size-x1:20px;
+
+    --color-white: #fff;
+    --the-black: #282828;
+    --the-brown: #ffcd9e;
+
+    --br-5xs: 8px;
+
+}

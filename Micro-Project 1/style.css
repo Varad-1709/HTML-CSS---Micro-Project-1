@@ -1,0 +1,231 @@
+.macbook-pro-1-child
+.macbook-pro-1-item{
+    position: absolute;
+    top: -1px;
+    left: 0;
+    background-color: var(--the-brown);
+    width: 1440px;
+    height: 592px;
+}
+.macbook-pro-1-item{
+    top: 172px;
+    left: 235px;
+    border-radius: 2px;
+    width: 219px;
+    height: 13px;
+}
+.an-inspiring-design{
+    position: absolute;
+    top: 83px;
+    left: 136px;
+    font-size: 36px;
+    line-height: 150%;
+    display: inline-block;
+    color: var(--the-black);
+    width: 562px;
+}
+.group-child{
+    top: 0;
+    left: 0;
+    border-radius: var(--the-5xs);
+    background-color: var(--the-black);
+}
+.group-child,
+.rectangle-parent,
+.register-now{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+}
+.register-now{
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rectangle-parent{
+    top: 411px;
+    left: 496px;
+    text-align: center;
+}
+.our-team-scouts,
+.show-me-how{
+    position: absolute;
+    left: 136px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    height: 81px;
+}
+.our-team-scouts{
+    top: 219px;
+    font-weight: 500;
+    color: #484848;
+    width: 495px;
+}
+.show-me-how{
+    top: 315px;
+    font-weight: 800;
+    color: var(--the-black);
+    width: 227px;
+}
+
+.macbook-pro-1-inner{
+    position: absolute;
+    top: 411px;
+    left: 136px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 4px solid#000;
+    box-sizing: border-box;
+    width: 344px;
+    height: 64px;
+}
+.your-e-mail-address{
+    position: absolute;
+    top: 411px;
+    left: 158px;
+    line-height: 160%;
+    font-weight: 600;
+    color:#888;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    height: 64px;
+}
+.dweep-io-1{
+    position: absolute;
+    top: 20px;
+    left: 818px;
+    width: 575px;
+    height: 575px;
+    overflow: hidden;
+}
+.rectanglr-div{
+    position: absolute;
+    top: 592px;
+    left: 0px;
+    background-color: var(--the-black);
+    width: 1440px;
+    height: 298px;
+}
+.instagramlogo-icon,
+.lindeinlogo-icon{
+    position: absolute;
+    height: 3.08%;
+    width: 2.04%;
+    top: 81.86%;
+    right: 13.4%;
+    bottom: 15.06%;
+    left: 84.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.lindeinlogo-icon{
+    right: 16.08%;
+    left: 81.88%;
+}
+.prompt-generator{
+    position: absolute;
+    top: 654px;
+    left: 191px;
+    line-height: 160%;
+    display: inline-block;
+    width: 216px;
+    height: 36px;
+}
+.dweep-io,
+.made-with-love{
+    text-align: right;
+    display: inline-block;
+    height: 36px;
+}
+.dweepio{
+    position: absolute;
+    top: 654px;
+    left: 1099px;
+    line-height: 160%;
+    width: 148px;
+}
+.made-with-love{
+    top:690px;
+    left: 1015px;
+    width: 232px;
+}
+.dweep-daily,
+.hellodweepio,
+.made-with-love{
+    position: absolute;
+    line-height: 160%;
+}
+.hellodweepio{
+    top: 798px;
+    left: 1015px;
+    text-align: right;
+    display: inline-block;
+    width: 232px;
+    height: 36px;
+}
+.dweep-daily{
+    top: 690px;
+    width: 216px;
+}
+.all-contributors,
+.dweep-daily,
+.your-data-on{
+    left: 191px;
+    display: inline-block;
+    height: 36px;
+}
+.all-contributors{
+    position: absolute;
+    top: 726px;
+    line-height: 160%;
+    width: 216px;
+}
+.your-data-on{
+    top: 762px;
+    width: 220px;
+}
+.contribute-to-dweep,
+.free-no,
+.your-data-on{
+    position: absolute;
+    line-height: 160%;
+}
+.contribute-to-dweep{
+    top: 798px;
+    left: 191px;
+    display: inline-block;
+    width: 236px;
+    height: 36px;
+}
+.free-no{
+    top: 479px;
+    left: 134px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 344px;
+    height: 61px;
+}
+.macbook-pro-1{
+    position: relative;
+    background-color: #fffcf4;
+    width: 100%;
+    height: 890px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-x1);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+}
+
+
+
+
